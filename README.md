@@ -22,3 +22,8 @@ Make sure you have a modern web browser and a code editor (e.g., Visual Studio C
 
 1. Clone the repository:
 https://github.com/fnuramsha/message-generator.git
+
+2. Usage
+- Open the `index.html` file in a web browser.
+-  Click the button to generate a random motivational message.
+

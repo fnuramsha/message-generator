@@ -21,3 +21,4 @@ Make sure you have a modern web browser and a code editor (e.g., Visual Studio C
 ### Installation
 
 1. Clone the repository:
+https://github.com/fnuramsha/message-generator.git
